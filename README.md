@@ -4,4 +4,5 @@
 
 ![image](https://github.com/user-attachments/assets/079ecc14-8b07-4d55-aff2-41dac92cf19c)
 
+Начинаем с установки пакета wget (утилиты командной строки Linux, используемой для загрузки файлов из интернета), используя команду sudo yum install wget
 
