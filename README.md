@@ -92,7 +92,8 @@
 
 Останавливаем и удаляем контейнеры командой <code>sudo docker compose down</code>:
 
-![image](https://github.com/user-attachments/assets/73c3a1b5-7651-4356-b6f4-7f3c7f05a6f3)
+![image](https://github.com/user-attachments/assets/98398ddb-217c-4cce-a13d-45fd959ee5e4)
+
 
 Клонируем репозиторий GitHub себе командой <code>https://github.com/kyrzokir/BorisovaLR.git</code>:
 
