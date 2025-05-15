@@ -82,6 +82,10 @@
 
 ![image](https://github.com/user-attachments/assets/e03806f5-cd35-49fc-9de0-a58a81414669)
 
+Так-же изменяем файл <code>prometheus.yaml</code>
+
+![image](https://github.com/user-attachments/assets/0a8d9734-05f0-4f17-9139-d760fb6daab7)
+
 Командой <code>sudo docker compose up -d</code> запускаем docker compose:
 
 ![image](https://github.com/user-attachments/assets/6ab05d51-5fbb-460f-9722-f97b601c0ecc)
