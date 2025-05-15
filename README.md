@@ -41,5 +41,8 @@
 
 ![image](https://github.com/user-attachments/assets/f4aebbc6-1f3c-47a1-8686-c3f6bb324864)
 
+Скачиваем пакет git и клонируем репозиторий rafana_stack_for_docker с GitHub, командой <code>git clone https://github.com/skl256/grafana_stack_for_docker.git</code>:
+
+![image](https://github.com/user-attachments/assets/1675f672-1f83-41e3-8c37-de54197bf8d5)
 
 
