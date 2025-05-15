@@ -78,9 +78,13 @@
 
 ![image](https://github.com/user-attachments/assets/5c68548c-9579-42ac-8651-e2bb7a6821ab)
 
-Командой <code>sudo vi docker-compose.yaml</code> открываем файл <code>docker-compose.yaml</code> и редактируем содержимое:
+Командой <code>sudo vi docker-compose.yaml</code> открываем файл <code>sudo vi docker-compose.yaml</code> и редактируем содержимое:
 
-![image](https://github.com/user-attachments/assets/32becf65-cdfc-45e5-959a-830629e36237)
+![image](https://github.com/user-attachments/assets/e03806f5-cd35-49fc-9de0-a58a81414669)
+
+Командой <code>sudo docker-compose up -d</code> запускаем docker compose
+
+![image](https://github.com/user-attachments/assets/6ab05d51-5fbb-460f-9722-f97b601c0ecc)
 
 
 
