@@ -27,3 +27,14 @@
 При помощи <code>COMVER=$(curl -s https://api.github.com/repos/docker/compose/releases/latest | grep 'tag_name' | cut -d\" -f4)</code> устанавливаем последнюю версию docker:
 
 ![image_2025-05-15_13-57-59](https://github.com/user-attachments/assets/af42c978-60bf-490e-8008-5f12157308a7)
+
+Командой <code>sudo chmod +x /usr/bin/docker-compose</code> делаем docker-compose исполняемым:
+
+![image (2)](https://github.com/user-attachments/assets/4daeadd3-19fd-439a-b663-163537cfb9ac)
+
+Командой <code>docker-compose --version</code> узнаём версию docker-compose:
+
+![image](https://github.com/user-attachments/assets/f4aebbc6-1f3c-47a1-8686-c3f6bb324864)
+
+
+
