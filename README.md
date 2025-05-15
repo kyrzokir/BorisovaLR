@@ -28,7 +28,7 @@
 
 ![image_2025-05-15_13-57-59](https://github.com/user-attachments/assets/af42c978-60bf-490e-8008-5f12157308a7)
 
-Командой <code>sudo chmod +x /usr/bin/docker-compose</code> делаем docker-compose исполняемым:
+Командой <code>sudo chmod +x /usr/bin/docker-compose</code> делаем docker-compose исполняемым и даём ему права доступа:
 
 ![image (2)](https://github.com/user-attachments/assets/4daeadd3-19fd-439a-b663-163537cfb9ac)
 
