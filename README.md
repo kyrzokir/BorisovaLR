@@ -32,7 +32,6 @@
 
 ![image](https://github.com/user-attachments/assets/7af5c941-64a5-4e50-8f6d-58843a2b6a90)
 
-
 Командой <code>sudo chmod +x /usr/bin/docker-compose</code> делаем docker-compose исполняемым и даём ему права доступа:
 
 ![image (2)](https://github.com/user-attachments/assets/4daeadd3-19fd-439a-b663-163537cfb9ac)
@@ -113,7 +112,7 @@
 
 ![image](https://github.com/user-attachments/assets/17706672-ffe8-45bf-978c-8a05ece60f14)
 
-Переходим в <code>Dash board</code> и нажимаем на <code>Add visualization</code>
+Переходим в <code>Dash board</code> и нажимаем на <code>Add visualization</code>:
 
 ![image](https://github.com/user-attachments/assets/a4e0bda9-88e2-4b1e-9ddc-1a69fbed494d)
 
@@ -166,7 +165,7 @@
 
 ![image](https://github.com/user-attachments/assets/82474a1a-1bea-497d-a8ec-a50976fa97b4)
 
-Переходим на <code>localhost:3000</code> DashBoard и вводим light_metric1:
+Переходим на <code>localhost:3000</code>, DashBoard и вводим light_metric1:
 
 ![image](https://github.com/user-attachments/assets/737295c7-cde9-45fb-8e44-5d2759127584)
 
