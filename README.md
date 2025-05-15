@@ -62,10 +62,15 @@
 
 ![image](https://github.com/user-attachments/assets/daffa7ce-309b-418f-83f0-73600163d073)
 
-Создает файл <code>grafana.ini</code> в указанной директории командой <code>touch /mnt/common_volume/grafana/grafana-config/grafana.ini:</code>
+Создает файл <code>grafana.ini</code> в указанной директории командой <code>touch /mnt/common_volume/grafana/grafana-config/grafana.ini</code>:
 
 ![image](https://github.com/user-attachments/assets/40520d83-8afc-4509-bdf7-deb33b93318b)
 
-Копирует все файлы из директории config в /mnt/common_volume/swarm/grafana/config/ командой <code>cp config/* /mnt/common_volume/swarm/grafana/config/:</code>
+Копирует все файлы из директории config в /mnt/common_volume/swarm/grafana/config/ командой <code>cp config/* /mnt/common_volume/swarm/grafana/config/</code>:
+
+![image](https://github.com/user-attachments/assets/b1e9d260-1529-45ba-8e84-d608d0931c2f)
+
+
+
 
 
