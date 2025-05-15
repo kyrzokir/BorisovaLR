@@ -70,6 +70,24 @@
 
 ![image](https://github.com/user-attachments/assets/b1e9d260-1529-45ba-8e84-d608d0931c2f)
 
+Переименовываем файл grafana.yaml в docker-compose.yaml командой <code>mv grafana.yaml docker-compose.yaml</code>:
+
+![image](https://github.com/user-attachments/assets/3663f187-c1a6-481f-ac2c-001bc71e83e7)
+
+Запускаем docker в фоновом режие командой sudo docker <code>compose up -d</code>:
+
+![image](https://github.com/user-attachments/assets/5c68548c-9579-42ac-8651-e2bb7a6821ab)
+
+Командой <code>sudo vi docker-compose.yaml</code> открываем файл <code>docker-compose.yaml</code> и редактируем содержимое:
+
+![image](https://github.com/user-attachments/assets/32becf65-cdfc-45e5-959a-830629e36237)
+
+
+
+
+
+
+
 
 
 
