@@ -125,6 +125,9 @@
 
 И получаем <code>DashBoard</code>
 
+![image](https://github.com/user-attachments/assets/500f8c5e-ce6a-4cad-98ee-5f8bff4cbed1)
+
+
 
 
 
