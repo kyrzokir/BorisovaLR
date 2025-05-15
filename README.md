@@ -136,6 +136,48 @@
 
 ![image](https://github.com/user-attachments/assets/500f8c5e-ce6a-4cad-98ee-5f8bff4cbed1)
 
+<h1>VictoriaMetrics</h1>
+
+Запускаем сервер командой <code>sudo docker compose up -d</code>:
+
+![image](https://github.com/user-attachments/assets/23bdf593-6c31-4a56-8020-17c50d2f4d6d)
+
+Переходим  по <code>localhost:3000</code> и создаём VictoriaMetrics, после чего проверяем:
+
+![image](https://github.com/user-attachments/assets/bbba2f2e-6339-4969-a9b1-14cd29ccda7a)
+
+![image](https://github.com/user-attachments/assets/1b91fa20-2b43-4dc7-bdc2-87d23927ba1d)
+
+![image](https://github.com/user-attachments/assets/d425cb79-02be-405f-b413-a0e095e48e4c)
+
+Дальше в терминале прописываем команду <code>echo -e "# TYPE light_metric1 gauge\nlight_metric1 0" | curl --data-binary @- http://localhost:8428/api/v1/import/prometheus</code>:
+
+![image](https://github.com/user-attachments/assets/3a39db4a-9e13-45b1-bef2-6b671761100d)
+
+Переходим по ссылке <code>http://localhost:8428/api/v1/query</code>:
+
+![image](https://github.com/user-attachments/assets/5990c3b1-8bf4-40d7-a2a0-40453034807a)
+
+После чего по <code>http://localhost:8428</code>:
+
+![image](https://github.com/user-attachments/assets/40a3cd12-2442-45df-b62c-ae980952c564)
+
+Выбираем <code>vmui</code> и в строке пишем <code>light_metric1</code> и видим точку на графике:
+
+![image](https://github.com/user-attachments/assets/82474a1a-1bea-497d-a8ec-a50976fa97b4)
+
+Переходим на <code>localhost:3000</code> DashBoard и вводим light_metric1:
+
+![image](https://github.com/user-attachments/assets/737295c7-cde9-45fb-8e44-5d2759127584)
+
+
+
+
+
+
+
+
+
 
 
 
