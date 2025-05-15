@@ -66,7 +66,7 @@
 
 ![image](https://github.com/user-attachments/assets/40520d83-8afc-4509-bdf7-deb33b93318b)
 
-Копирует все файлы из директории config в /mnt/common_volume/swarm/grafana/config/ командой <code>cp config/* /mnt/common_volume/swarm/grafana/config/</code>:
+Копирует все файлы из директории config в <code>/mnt/common_volume/swarm/grafana/config/</code> командой <code>cp config/* /mnt/common_volume/swarm/grafana/config/</code>:
 
 ![image](https://github.com/user-attachments/assets/b1e9d260-1529-45ba-8e84-d608d0931c2f)
 
@@ -74,7 +74,7 @@
 
 ![image](https://github.com/user-attachments/assets/3663f187-c1a6-481f-ac2c-001bc71e83e7)
 
-Запускаем docker в фоновом режие командой sudo docker <code>compose up -d</code>:
+Запускаем docker в фоновом режие командой <code>sudo docker compose up -d</code>:
 
 ![image](https://github.com/user-attachments/assets/5c68548c-9579-42ac-8651-e2bb7a6821ab)
 
@@ -82,7 +82,7 @@
 
 ![image](https://github.com/user-attachments/assets/e03806f5-cd35-49fc-9de0-a58a81414669)
 
-Командой <code>sudo docker-compose up -d</code> запускаем docker compose
+Командой <code>sudo docker compose up -d</code> запускаем docker compose
 
 ![image](https://github.com/user-attachments/assets/6ab05d51-5fbb-460f-9722-f97b601c0ecc)
 
