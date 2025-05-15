@@ -47,10 +47,6 @@
 
 Переходим <code>cd grafana_stack_for_docker</code> в папку grafana_stack_for_docker:
 
-![image](https://github.com/user-attachments/assets/336ae0a2-6d11-4e4c-9cd2-1760bcf521a3)
-
-Переходим <code>cd grafana_stack_for_docker</code> в папку grafana_stack_for_docker:
-
 ![image](https://github.com/user-attachments/assets/52489032-5137-4c12-b64a-8f53e9c8249e)
 
 Командой <code>sudo mkdir -p /mnt/common_volume/swarm/grafana/config</code> создаём директорию для конфигурации Grafana
