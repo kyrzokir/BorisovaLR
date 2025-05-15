@@ -12,4 +12,11 @@
 
 ![image](https://github.com/user-attachments/assets/41711237-f6ea-466c-9c84-fb84392c4d60)
 
+Командой <code>sudo wget -P /etc/yum.repos.d/ https://download.docker.com/linux/centos/docker-ce.repo</code> скачиваем репозиторий 
+
+![image](https://github.com/user-attachments/assets/993f5fc2-2883-4246-99e0-f939812ded11)
+
+После чего командой <code>sudo yum install docker-ce docker-ce-cli containerd.io</code> устанавливаем docker 
+
+![image](https://github.com/user-attachments/assets/54275fb1-6eef-4ca4-a82a-a63481928c35)
 
