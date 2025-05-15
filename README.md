@@ -165,7 +165,7 @@
 
 ![image](https://github.com/user-attachments/assets/82474a1a-1bea-497d-a8ec-a50976fa97b4)
 
-Переходим на <code>localhost:3000</code>, DashBoard и вводим light_metric1:
+Переходим на <code>localhost:3000</code>, создаём DashBoard и вводим light_metric1:
 
 ![image](https://github.com/user-attachments/assets/737295c7-cde9-45fb-8e44-5d2759127584)
 
