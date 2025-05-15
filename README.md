@@ -121,7 +121,7 @@
 
 ![image](https://github.com/user-attachments/assets/aaf0cc6e-8626-495c-8fdb-32149309df16)
 
-И заполняем данные и проверяем:
+Заполняем данные и проверяем:
 
 ![image](https://github.com/user-attachments/assets/3603f821-3a9a-41e1-bd62-8e3e873e955d)
 ![image](https://github.com/user-attachments/assets/c016de6d-1bd1-4794-9dbb-6ba43ee1f9c3)
@@ -132,7 +132,7 @@
 
 ![image](https://github.com/user-attachments/assets/2f4d2c11-3e85-407f-81de-24b1cb18647c)
 
-И получаем <code>DashBoard</code>
+И смотрим на результат:
 
 ![image](https://github.com/user-attachments/assets/500f8c5e-ce6a-4cad-98ee-5f8bff4cbed1)
 
