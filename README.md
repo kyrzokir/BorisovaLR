@@ -82,7 +82,7 @@
 
 ![image](https://github.com/user-attachments/assets/e03806f5-cd35-49fc-9de0-a58a81414669)
 
-Так-же изменяем файл <code>prometheus.yaml</code>
+Так-же изменяем файл <code>prometheus.yaml</code>:
 
 ![image](https://github.com/user-attachments/assets/0a8d9734-05f0-4f17-9139-d760fb6daab7)
 
@@ -97,6 +97,10 @@
 Останавливаем и удаляем контейнеры командой <code>sudo docker compose down</code>:
 
 ![image](https://github.com/user-attachments/assets/98398ddb-217c-4cce-a13d-45fd959ee5e4)
+
+Смотрим текущее состояние командой <code>sudo docker compose ps</code>:
+
+![image](https://github.com/user-attachments/assets/9cd70658-3603-4b25-a025-acc7173e1c21)
 
 
 Клонируем репозиторий GitHub себе командой <code>https://github.com/kyrzokir/BorisovaLR.git</code>:
