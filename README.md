@@ -12,7 +12,7 @@
 
 ![image](https://github.com/user-attachments/assets/41711237-f6ea-466c-9c84-fb84392c4d60)
 
-Командой <code>sudo wget -P /etc/yum.repos.d/ https://download.docker.com/linux/centos/docker-ce.repo</code> скачиваем репозиторий:
+Командой <code>sudo wget -P /etc/yum.repos.d/ https://download.docker.com/linux/centos/docker-ce.repo</code> скачиваем репозиторий с docker:
 
 ![image](https://github.com/user-attachments/assets/993f5fc2-2883-4246-99e0-f939812ded11)
 
