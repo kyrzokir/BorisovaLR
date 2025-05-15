@@ -82,9 +82,50 @@
 
 ![image](https://github.com/user-attachments/assets/e03806f5-cd35-49fc-9de0-a58a81414669)
 
-Командой <code>sudo docker compose up -d</code> запускаем docker compose
+Командой <code>sudo docker compose up -d</code> запускаем docker compose:
 
 ![image](https://github.com/user-attachments/assets/6ab05d51-5fbb-460f-9722-f97b601c0ecc)
+
+Останавливаем контейнеры командой <code>sudo docker compose stop</code>:
+
+![image](https://github.com/user-attachments/assets/5e505478-f29b-4c90-b5c3-1a014ab96757)
+
+Останавливаем и удаляем контейнеры командой <code>sudo docker compose down</code>:
+
+![image](https://github.com/user-attachments/assets/73c3a1b5-7651-4356-b6f4-7f3c7f05a6f3)
+
+Клонируем репозиторий GitHub себе командой <code>https://github.com/kyrzokir/BorisovaLR.git</code>:
+
+![image](https://github.com/user-attachments/assets/b246680a-df17-4d4f-8c93-6ed42ba67a24)
+
+<h1>Graphana</h1>
+
+Открываем браузер и преходим в <code>localhost3000</code> и вводим в логин и пароль admin:
+
+![image](https://github.com/user-attachments/assets/17706672-ffe8-45bf-978c-8a05ece60f14)
+
+Переходим в <code>Dash board</code> и нажимаем на <code>Add visualization</code>
+
+![image](https://github.com/user-attachments/assets/a4e0bda9-88e2-4b1e-9ddc-1a69fbed494d)
+
+Выбираем Prometheus:
+
+![image](https://github.com/user-attachments/assets/aaf0cc6e-8626-495c-8fdb-32149309df16)
+
+И заполняем данные и проверяем:
+
+![image](https://github.com/user-attachments/assets/3603f821-3a9a-41e1-bd62-8e3e873e955d)
+![image](https://github.com/user-attachments/assets/c016de6d-1bd1-4794-9dbb-6ba43ee1f9c3)
+
+Заходим в <code>Import a dashboard</code> и вводим <code>1860</code>:
+
+![image](https://github.com/user-attachments/assets/fbf09e59-7015-4b90-ab3d-d82856e4c38e)
+
+![image](https://github.com/user-attachments/assets/2f4d2c11-3e85-407f-81de-24b1cb18647c)
+
+И получаем <code>DashBoard</code>
+
+
 
 
 
