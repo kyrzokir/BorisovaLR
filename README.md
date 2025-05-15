@@ -45,4 +45,22 @@
 
 ![image](https://github.com/user-attachments/assets/1675f672-1f83-41e3-8c37-de54197bf8d5)
 
+Переходим <code>cd grafana_stack_for_docker</code> в папку grafana_stack_for_docker:
+
+![image](https://github.com/user-attachments/assets/336ae0a2-6d11-4e4c-9cd2-1760bcf521a3)
+
+Переходим <code>cd grafana_stack_for_docker</code> в папку grafana_stack_for_docker:
+
+![image](https://github.com/user-attachments/assets/52489032-5137-4c12-b64a-8f53e9c8249e)
+
+Командой <code>sudo mkdir -p /mnt/common_volume/swarm/grafana/config</code> создаём директорию для конфигурации Grafana
+
+![image](https://github.com/user-attachments/assets/04259fb6-e061-49fe-8672-d7abbae827f6)
+
+Создает несколько директорий Grafana одновременно 
+<code>sudo mkdir -p /mnt/common_volume/grafana/{grafana-config,grafana-data,prometheus-data}</code>:
+
+![image](https://github.com/user-attachments/assets/98b0a958-9f50-49b1-bf77-35cea43d743b)
+
+
 
